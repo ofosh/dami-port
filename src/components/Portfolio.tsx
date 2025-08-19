@@ -18,6 +18,7 @@ const Portfolio = () => {
       category: 'branding',
       image: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=600',
       description: 'Complete brand redesign for tech startup',
+      link: "https://drive.google.com/drive/folders/1kdQB1WL_lZfaEoQ63QUdHhYuggCtMxXu?usp=drive_link",
     },
     {
       id: 3,
@@ -25,6 +26,7 @@ const Portfolio = () => {
       category: 'mobile',
       image: 'https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=600',
       description: 'Intuitive mobile application interface design',
+      link: 'https://drive.google.com/drive/folders/1a1smrgKHwhxGzwxSyMgD2mk1xtWZebNC?usp=drive_link',
     },
     {
       id: 4,
