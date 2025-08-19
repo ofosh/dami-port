@@ -132,7 +132,8 @@ const Footer = () => {
             <div className="flex items-center text-slate-400 mb-4 md:mb-0">
               <span>All rights reserved © 2025 DamiDesign.</span>
               
-              <span>in New York</span>
+              <span>+234-9039-115-985</span>
+              <span>Nigeria</span>
             </div>
             <div className="flex space-x-6 text-sm">
               <a href="#" className="text-slate-400 hover:text-orange-500 transition-colors duration-300">
