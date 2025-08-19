@@ -26,10 +26,9 @@ const Hero = () => {
                 View My Work
               </button>
               <button className="border border-white/30 hover:border-white text-white px-8 py-4 rounded-full font-semibold transition-all duration-300 flex items-center justify-center gap-2 backdrop-blur-sm">
-                <a href={}>
+                <a href="#" download>
                 <Download size={20} />
                 Download CV
-                
                 </a>
               </button>
             </div>
