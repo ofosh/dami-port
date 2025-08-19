@@ -3,7 +3,7 @@ import { Mail, Phone, MapPin, Twitter, Linkedin, Instagram, Github, Heart } from
 
 const Footer = () => {
   const socialLinks = [
-    { icon: <Twitter size={20} />, href: '#', label: 'Twitter' },
+    { icon: <Twitter size={20} />, href: 'https://x.com/damidesign_?s=21', label: 'Twitter' },
     { icon: <Linkedin size={20} />, href: '#', label: 'LinkedIn' },
     { icon: <Instagram size={20} />, href: 'https://www.instagram.com/damidesign__?igsh=MWxxaTMyYTF2bnVjNA%3D%3D&utm_source=qr', label: 'Instagram' },
     { icon: <Github size={20} />, href: '#', label: 'Github' },
@@ -130,8 +130,8 @@ const Footer = () => {
         <div className="py-8 border-t border-slate-800">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center text-slate-400 mb-4 md:mb-0">
-              <span>© 2025 DamiDesign. Made with</span>
-              <Heart size={16} className="text-red-500 mx-2 fill-current" />
+              <span>All rights reserved © 2025 DamiDesign.</span>
+              
               <span>in New York</span>
             </div>
             <div className="flex space-x-6 text-sm">
