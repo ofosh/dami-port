@@ -5,7 +5,7 @@ const Footer = () => {
   const socialLinks = [
     { icon: <Twitter size={20} />, href: '#', label: 'Twitter' },
     { icon: <Linkedin size={20} />, href: '#', label: 'LinkedIn' },
-    { icon: <Instagram size={20} />, href: '#', label: 'Instagram' },
+    { icon: <Instagram size={20} />, href: 'https://www.instagram.com/damidesign__?igsh=MWxxaTMyYTF2bnVjNA%3D%3D&utm_source=qr', label: 'Instagram' },
     { icon: <Github size={20} />, href: '#', label: 'Github' },
   ];
 
