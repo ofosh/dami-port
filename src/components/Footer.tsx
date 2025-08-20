@@ -24,9 +24,9 @@ const Footer = () => {
   ];
 
   const contactInfo = [
-    { icon: <Mail size={16} />, text: 'hello@damidesign.xyz', href: 'mailto:hello@damidesign.xyz' },
-    { icon: <Phone size={16} />, text: '+1 (555) 123-4567', href: 'tel:+15551234567' },
-    { icon: <MapPin size={16} />, text: 'New York, NY', href: '#' },
+    { icon: <Mail size={16} />, text: 'hi@damidesign.xyz', href: 'mailto:hi@damidesign.xyz' },
+    { icon: <Phone size={16} />, text: '234 903 911 5985', href: 'tel:+' },
+    { icon: <MapPin size={16} />, text: 'Nigeria', href: '#' },
   ];
 
   return (
