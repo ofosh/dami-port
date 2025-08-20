@@ -43,19 +43,19 @@ const Contact = () => {
     {
       icon: <Mail size={24} />,
       title: 'Email',
-      detail: 'hello@damidesign.xyz',
-      link: 'mailto:hello@damidesign.xyz',
+      detail: 'hi@damidesign.xyz',
+      link: 'mailto:hi@damidesign.xyz',
     },
     {
       icon: <Phone size={24} />,
       title: 'Phone',
-      detail: '+1 (555) 123-4567',
-      link: 'tel:+15551234567',
+      detail: '+234 903 911 5985',
+      link: 'tel:+234 903 911 5985',
     },
     {
       icon: <MapPin size={24} />,
       title: 'Location',
-      detail: 'New York, NY',
+      detail: 'Nigeria',
       link: '#',
     },
   ];
